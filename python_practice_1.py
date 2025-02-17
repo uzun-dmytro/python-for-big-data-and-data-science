@@ -1,0 +1,1 @@
+print("Uzun Dmytro, group 5")
